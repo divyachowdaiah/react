@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    { "source": "/wp-json/:path*", "destination": "https://demo1.comxdesign.com.au/wp/wp-json/:path*" },
+    { "source": "/wp-json/:path*", "destination": "https://demo1.comxdesign.com.au/wp4/wp-json/:path*" },
     { "source": "/((?!assets/|wp-json/).*)", "destination": "/index.html" }
   ]
 }
